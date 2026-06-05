@@ -1,0 +1,11 @@
+html {
+  cursor: url('images/webdecor/DGCnorm.png') 0 0, auto;
+}
+
+a:hover {
+    cursor: url('images/webdecor/DGCnorm.png') 0 0, auto;
+}
+
+/* body {
+
+} */
