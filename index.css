@@ -4,15 +4,8 @@
 }
 
 /* Fonts */
-
-.emilys-candy-regular {
-  font-family: "Emilys Candy", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.handmadesmoothy {
-    font-family: "Handmade Smoothy", serif;
+.ChasingHearts-Regular {
+    font-family: "Chasing Hearts-Regular";
     font-weight: 400;
     font-style: normal;
 }
@@ -346,7 +339,7 @@ aside {
 .sitelog {
     margin-top: 0px;
     background-image: url("images/wallpapers/purplenotecard2.jpg");
-    font-family: "Handmade Smoothy", "Emilys Candy", serif;
+    font-family: "ChasingHearts-Regular";
     font-size: 20px;
 }
 
